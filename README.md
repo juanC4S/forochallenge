@@ -1,5 +1,5 @@
 # ForoHub  
-DiscusHub es una proyecto API REST que fomenta la colaboración y el intercambio de ideas entre usuarios. Facilita la creación de 
+DiscusHub es un proyecto API REST que fomenta la colaboración y el intercambio de ideas entre usuarios. Facilita la creación de 
 conversaciones dinámicas y organizadas en torno a temas de interés.  
 
 ## Características principales  
